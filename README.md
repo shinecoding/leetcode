@@ -15,4 +15,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shinecoding/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/shinecoding/leetcode/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/shinecoding/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
