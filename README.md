@@ -17,11 +17,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shinecoding/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/shinecoding/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/shinecoding/leetcode/tree/master/0322-coin-change) |
 ## Array
 |  |
 | ------- |
 | [0046-permutations](https://github.com/shinecoding/leetcode/tree/master/0046-permutations) |
 | [0152-maximum-product-subarray](https://github.com/shinecoding/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/shinecoding/leetcode/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
 | ------- |
@@ -34,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shinecoding/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shinecoding/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
