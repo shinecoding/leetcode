@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shinecoding/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/shinecoding/leetcode/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
@@ -58,4 +59,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shinecoding/leetcode/tree/master/0002-add-two-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shinecoding/leetcode/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shinecoding/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shinecoding/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
