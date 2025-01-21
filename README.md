@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shinecoding/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/shinecoding/leetcode/tree/master/0011-container-with-most-water) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shinecoding/leetcode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/shinecoding/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shinecoding/leetcode/tree/master/0048-rotate-image) |
 | [0152-maximum-product-subarray](https://github.com/shinecoding/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -80,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shinecoding/leetcode/tree/master/0048-rotate-image) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shinecoding/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
