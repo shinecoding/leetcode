@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/shinecoding/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shinecoding/leetcode/tree/master/0048-rotate-image) |
 | [0152-maximum-product-subarray](https://github.com/shinecoding/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/shinecoding/leetcode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/shinecoding/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shinecoding/leetcode/tree/master/0322-coin-change) |
 ## Backtracking
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shinecoding/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shinecoding/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/shinecoding/leetcode/tree/master/0322-coin-change) |
 ## Binary Search
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shinecoding/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shinecoding/leetcode/tree/master/0207-course-schedule) |
 ## Graph
 |  |
@@ -82,8 +85,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shinecoding/leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/shinecoding/leetcode/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shinecoding/leetcode/tree/master/0011-container-with-most-water) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shinecoding/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
