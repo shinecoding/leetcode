@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shinecoding/leetcode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shinecoding/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/shinecoding/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shinecoding/leetcode/tree/master/0048-rotate-image) |
 | [0152-maximum-product-subarray](https://github.com/shinecoding/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shinecoding/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/shinecoding/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Linked List
 |  |
