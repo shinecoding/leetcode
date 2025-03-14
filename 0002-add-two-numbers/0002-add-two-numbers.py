@@ -6,7 +6,7 @@
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         result = ListNode()
-        cur = result
+        curr = result
         carry = 0
 
         while l1 or l2 or carry:
@@ -16,12 +16,10 @@ class Solution:
                 l1 = l1.next
             if l2:
                 v2 = l2.val
-                l2 = l2.next
-            val = v1+v2+carry
-            carry = val //10
-            cur.next = ListNode(val%10)
-            cur = cur.next
+                l2= l2.next
+        
+            curr.next = ListNode((v1 + v2 + carry) % 10)
+            carry = (v1 + v2 + carry) // 10
+            curr = curr.next
 
         return result.next
-            
-                
