@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shinecoding/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shinecoding/leetcode/tree/master/0011-container-with-most-water) |
+| [1002-maximum-width-ramp](https://github.com/shinecoding/leetcode/tree/master/1002-maximum-width-ramp) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shinecoding/leetcode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/shinecoding/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shinecoding/leetcode/tree/master/0322-coin-change) |
+| [1002-maximum-width-ramp](https://github.com/shinecoding/leetcode/tree/master/1002-maximum-width-ramp) |
 ## Backtracking
 |  |
 | ------- |
@@ -145,5 +147,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1002-maximum-width-ramp](https://github.com/shinecoding/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shinecoding/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/shinecoding/leetcode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
