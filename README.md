@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/shinecoding/leetcode/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/shinecoding/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0271-encode-and-decode-strings](https://github.com/shinecoding/leetcode/tree/master/0271-encode-and-decode-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/shinecoding/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shinecoding/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
@@ -73,11 +74,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/shinecoding/leetcode/tree/master/0139-word-break) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/shinecoding/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/shinecoding/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/shinecoding/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinecoding/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shinecoding/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/shinecoding/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Breadth-First Search
 |  |
 | ------- |
