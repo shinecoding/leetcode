@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/shinecoding/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/shinecoding/leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/shinecoding/leetcode/tree/master/0139-word-break) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shinecoding/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,4 +142,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/shinecoding/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shinecoding/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
