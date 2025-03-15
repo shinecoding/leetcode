@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/shinecoding/leetcode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/shinecoding/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shinecoding/leetcode/tree/master/0079-word-search) |
+| [0128-longest-consecutive-sequence](https://github.com/shinecoding/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/shinecoding/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shinecoding/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/shinecoding/leetcode/tree/master/0179-largest-number) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/shinecoding/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shinecoding/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/shinecoding/leetcode/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/shinecoding/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/shinecoding/leetcode/tree/master/0139-word-break) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/shinecoding/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/shinecoding/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shinecoding/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shinecoding/leetcode/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
