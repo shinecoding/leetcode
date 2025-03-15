@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/shinecoding/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/shinecoding/leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/shinecoding/leetcode/tree/master/0139-word-break) |
+| [0227-basic-calculator-ii](https://github.com/shinecoding/leetcode/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shinecoding/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/shinecoding/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shinecoding/leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shinecoding/leetcode/tree/master/0048-rotate-image) |
+| [0227-basic-calculator-ii](https://github.com/shinecoding/leetcode/tree/master/0227-basic-calculator-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/shinecoding/leetcode/tree/master/0227-basic-calculator-ii) |
 | [1002-maximum-width-ramp](https://github.com/shinecoding/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shinecoding/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
