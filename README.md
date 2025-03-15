@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shinecoding/leetcode/tree/master/0207-course-schedule) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/shinecoding/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/shinecoding/leetcode/tree/master/0322-coin-change) |
+| [0339-nested-list-weight-sum](https://github.com/shinecoding/leetcode/tree/master/0339-nested-list-weight-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shinecoding/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shinecoding/leetcode/tree/master/0207-course-schedule) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/shinecoding/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0339-nested-list-weight-sum](https://github.com/shinecoding/leetcode/tree/master/0339-nested-list-weight-sum) |
 ## Graph
 |  |
 | ------- |
