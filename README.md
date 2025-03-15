@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/shinecoding/leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/shinecoding/leetcode/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/shinecoding/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0271-encode-and-decode-strings](https://github.com/shinecoding/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shinecoding/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Dynamic Programming
 |  |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/shinecoding/leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/shinecoding/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shinecoding/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0271-encode-and-decode-strings](https://github.com/shinecoding/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0300-longest-increasing-subsequence](https://github.com/shinecoding/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shinecoding/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shinecoding/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -194,4 +196,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shinecoding/leetcode/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0271-encode-and-decode-strings](https://github.com/shinecoding/leetcode/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
