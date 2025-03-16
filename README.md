@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shinecoding/leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/shinecoding/leetcode/tree/master/0227-basic-calculator-ii) |
 | [1002-maximum-width-ramp](https://github.com/shinecoding/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shinecoding/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -208,5 +209,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shinecoding/leetcode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/shinecoding/leetcode/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
