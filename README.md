@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shinecoding/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shinecoding/leetcode/tree/master/0011-container-with-most-water) |
+| [0143-reorder-list](https://github.com/shinecoding/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shinecoding/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1002-maximum-width-ramp](https://github.com/shinecoding/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinecoding/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/shinecoding/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shinecoding/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/shinecoding/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shinecoding/leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/shinecoding/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shinecoding/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/shinecoding/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shinecoding/leetcode/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/shinecoding/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shinecoding/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shinecoding/leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/shinecoding/leetcode/tree/master/0227-basic-calculator-ii) |
