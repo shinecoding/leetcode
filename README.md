@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shinecoding/leetcode/tree/master/0207-course-schedule) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/shinecoding/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/shinecoding/leetcode/tree/master/0339-nested-list-weight-sum) |
+| [0572-subtree-of-another-tree](https://github.com/shinecoding/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Graph
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinecoding/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shinecoding/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/shinecoding/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/shinecoding/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinecoding/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Sorting
 |  |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinecoding/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shinecoding/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/shinecoding/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/shinecoding/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinecoding/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Stack
 |  |
@@ -256,4 +259,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/shinecoding/leetcode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/shinecoding/leetcode/tree/master/0271-encode-and-decode-strings) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shinecoding/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shinecoding/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
