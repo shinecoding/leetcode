@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/shinecoding/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/shinecoding/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shinecoding/leetcode/tree/master/0207-course-schedule) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shinecoding/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/shinecoding/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/shinecoding/leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0572-subtree-of-another-tree](https://github.com/shinecoding/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/shinecoding/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinecoding/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shinecoding/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shinecoding/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/shinecoding/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/shinecoding/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinecoding/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/shinecoding/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shinecoding/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/shinecoding/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shinecoding/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/shinecoding/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/shinecoding/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/shinecoding/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -267,4 +270,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shinecoding/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shinecoding/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
