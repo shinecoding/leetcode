@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shinecoding/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/shinecoding/leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/shinecoding/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/shinecoding/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shinecoding/leetcode/tree/master/0139-word-break) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/shinecoding/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/shinecoding/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/shinecoding/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shinecoding/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/shinecoding/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/shinecoding/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shinecoding/leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
